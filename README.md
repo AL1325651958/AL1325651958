@@ -1,5 +1,5 @@
 ### Welcome！👋 
-- 👋  My name is 梁立扬
+- 👋  My name is LIANG LIYANG
 - 🔭 I am studying at China Jiliang University 
 - 🌱 I’m currently learning Java, MySQL, Spring, Redis, Elasticsearch...
 - 📫 How to reach me: 2100201314@cjlu.edu.cn
